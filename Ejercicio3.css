@@ -1,0 +1,43 @@
+
+form{
+    
+    background-color: orchid;
+    border-radius: 5px;
+    color: #180101;
+    font-size: 20px;
+    padding: 30px;
+    margin: 0 auto;
+    width: 300px;
+   
+}
+
+input, textarea{
+
+    border:0;
+    outline: none;
+    width: 280px;
+   
+
+}
+.campo{
+    border: solid 1px #ccc;
+    padding: 10px; 
+    
+}
+
+.campo:focus{
+    border-color: #18A383;
+}
+.center-content{
+    text-align: center;
+    
+}
+
+p{
+     
+    
+}
+
+.class {
+    
+} 
